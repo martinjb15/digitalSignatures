@@ -1,0 +1,81 @@
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\csc.exe
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CSharp.Core.targets
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\System.Collections.Immutable.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\System.Reflection.Metadata.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\vbc.exe
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\VBCSCompiler.exe
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\roslyn\VBCSCompiler.exe.config
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\digitalSignatures.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\digitalSignatures.pdb
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.dll
+\\abbey-fp02\redirectedfolders$\martin\documents\visual studio 2015\Projects\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.pdb
+\\abbey-fp02\RedirectedFolders$\martin\Documents\Visual Studio 2015\Projects\digitalSignatures\digitalSignatures\bin\digitalSignatures.dll.config
+\\abbey-fp02\RedirectedFolders$\martin\Documents\Visual Studio 2015\Projects\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.csprojResolveAssemblyReference.cache
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\csc.exe
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\System.Collections.Immutable.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\System.Reflection.Metadata.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\vbc.exe
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\VBCSCompiler.exe
+Y:\martin\digitalSignatures\digitalSignatures\bin\roslyn\VBCSCompiler.exe.config
+Y:\martin\digitalSignatures\digitalSignatures\bin\digitalSignatures.dll.config
+Y:\martin\digitalSignatures\digitalSignatures\bin\digitalSignatures.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\digitalSignatures.pdb
+Y:\martin\digitalSignatures\digitalSignatures\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\martin\digitalSignatures\digitalSignatures\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\martin\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.csproj.CoreCompileInputs.cache
+Y:\martin\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.csproj.CopyComplete
+Y:\martin\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.dll
+Y:\martin\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.pdb
+Y:\martin\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.csprojAssemblyReference.cache
+Y:\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.csprojAssemblyReference.cache
+Y:\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.dll
+Y:\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.pdb
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\csc.exe
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Collections.Immutable.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Reflection.Metadata.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\vbc.exe
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\VBCSCompiler.exe
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\VBCSCompiler.exe.config
+Y:\digitalSignatures\digitalSignatures\bin\digitalSignatures.dll.config
+Y:\digitalSignatures\digitalSignatures\bin\digitalSignatures.dll
+Y:\digitalSignatures\digitalSignatures\bin\digitalSignatures.pdb
+Y:\digitalSignatures\digitalSignatures\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\digitalSignatures\digitalSignatures\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\digitalSignatures\digitalSignatures\obj\Debug\digitalSignatures.csproj.CopyComplete
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\csc.exe.config
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\csc.rsp
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\csi.exe
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\csi.exe.config
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\csi.rsp
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Buffers.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Memory.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Numerics.Vectors.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\vbc.exe.config
+Y:\digitalSignatures\digitalSignatures\bin\roslyn\vbc.rsp
